@@ -28,5 +28,17 @@ Objective:Ensure clean, consistent, and error-free data for accurate visualizati
 - **Corrected inconsistent entries in Region and Category columns (e.g., ensuring categories like "Mobiles & Tablets" are uniformly labeled).**
 - **Ensured date formats were consistent (MM-DD-YYYY).**
 
+Data Processing:
+Objective:
+Prepare the data by aggregating, transforming, and filtering as needed.
+- **Aggregated revenue data:**
+   - **Monthly Aggregation: Used DATEPART function to group revenue by month.**
+   - **Age Group Aggregation: Created calculated fields to bucket ages.**
+   - **Region & State Aggregation: Grouped revenue by geographic regions and states.**
+   - **Gender Split Aggregation: Filtered revenue by gender to analyze category-wise male vs female revenue.**
+- **Applied filters & parameters:**
+   - **Added Category Filter Dropdown for dynamic filtering.**
+- **Applied Sort & Rank to visualize categories based on revenue.**
+- **Used calculated fields for Revenue Percentages & Totals.**
 
 Analysis and create a dashboard report.
