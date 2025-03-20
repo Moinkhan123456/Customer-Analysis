@@ -48,21 +48,21 @@ Create interactive, insightful, and user-friendly visualizations.
 **Dashboards & Charts Created:**
 
 - 1.Revenue Per Month (Line Chart):
-    - **Displays month-wise revenue trend.
-    - **Highlights peak sales months (e.g., October ₹11.5M).
+    - **Displays month-wise revenue trend.**
+    - **Highlights peak sales months (e.g., October ₹11.5M).**
 - 2.Revenue Per State (Map):
-    - **Geographical visualization showing revenue distribution across US states.
+    - **Geographical visualization showing revenue distribution across US states.**
 - 3.Revenue Based on Age (Bar Chart):
-    - **Visualizes revenue contribution by age groups (e.g., highest from 30-40 age group ₹8.7M).
+    - **Visualizes revenue contribution by age groups (e.g., highest from 30-40 age group ₹8.7M).**
 - 4.Revenue Percentage Per Region (Donut Chart):
-    - **Shows revenue percentage breakdown by region (e.g., South contributes 36.83%).
+    - **Shows revenue percentage breakdown by region (e.g., South contributes 36.83%).**
 - 5.Quantity Discount Correlation (Scatter Plot):
-    - **Shows relationship between Discount % and Quantity Ordered.
+    - **Shows relationship between Discount % and Quantity Ordered.**
 - 6.Revenue Per Category (Bar Chart - Split by Gender):
-    - **Displays revenue distribution across product categories.
-    - **Split view of Male & Female contributions (e.g., Mobiles & Tablets ₹11.4M for Female, ₹10.8M for Male).
+    - **Displays revenue distribution across product categories.**
+    - **Split view of Male & Female contributions (e.g., Mobiles & Tablets ₹11.4M for Female, ₹10.8M for Male).**
 - 7.Total Revenue (KPI Metric):
-    - **Displays overall revenue (₹41.7M).
+    - **Displays overall revenue (₹41.7M).**
  
 
 Analysis and create a dashboard report.
