@@ -64,5 +64,6 @@ Create interactive, insightful, and user-friendly visualizations.
 - 7.Total Revenue (KPI Metric):
     - **Displays overall revenue (₹41.7M).**
  
-
+Dashboard Interaction <a href="https://github.com/Moinkhan123456/Customer-Analysis/blob/main/Screenshot%20(8).png">View Dashboard</a>
+<br>
 Analysis and create a dashboard report.
