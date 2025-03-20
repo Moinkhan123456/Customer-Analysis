@@ -20,4 +20,13 @@ Structure raw data into meaningful tables and relationships, ensuring smooth ana
    - **Quantity Discount Correlation = Correlation analysis between Discount % and Quantity Ordered.**
    - **Revenue per Category by Gender = Split revenue into Female & Male categories.**
 
+Data Cleaning:
+Objective:Ensure clean, consistent, and error-free data for accurate visualization.
+- **Removed null/blank values in critical columns like Revenue, State, Category.**
+- **Standardized column names (renamed for readability).**
+- **Filtered out rows with missing or unknown values (e.g., states with “Unknown” were highlighted in the map for transparency).**
+- **Corrected inconsistent entries in Region and Category columns (e.g., ensuring categories like "Mobiles & Tablets" are uniformly labeled).**
+- **Ensured date formats were consistent (MM-DD-YYYY).**
+
+
 Analysis and create a dashboard report.
